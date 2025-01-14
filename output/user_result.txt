@@ -1,23 +1,23 @@
 🕘️更新时间,#genre#
-2025-01-14 18:22:58,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-01-15 06:24:04,http://112.46.85.60:8009/hls/501/index.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-1,http://112.46.85.60:8009/hls/501/index.m3u8
 CCTV-2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp
-CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
+CCTV-3,http://112.46.85.60:8009/hls/3/index.m3u8
+CCTV-4,http://112.46.85.60:8009/hls/4/index.m3u8
+CCTV-5,http://112.46.85.60:8009/hls/503/index.m3u8
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-6,http://221.224.4.170:1111/tsfile/live/0006_1.m3u8
 CCTV-7,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=12706415551557919057&amp
-CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-8,http://112.46.85.60:8009/hls/8/index.m3u8
 CCTV-9,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=17686352686599982856&amp
 CCTV-10,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=9053765528789506188
-CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-11,http://221.224.4.170:1111/tsfile/live/0011_1.m3u8
 CCTV-12,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=8190402369178717730
-CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-13,http://221.224.4.170:1111/tsfile/live/0013_1.m3u8
 CCTV-14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862
-CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-15,http://221.224.4.170:1111/tsfile/live/0015_1.m3u8
 CCTV-16,http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 CCTV-17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=2038717225283627700
 
