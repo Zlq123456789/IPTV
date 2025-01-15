@@ -1,29 +1,47 @@
 🕘️更新时间,#genre#
-2025-01-15 18:23:12,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8
+2025-01-16 06:23:21,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8
-CCTV-2,http://202.168.187.208:9089/tsfile/live/0002_1.m3u8
+CCTV-2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp
 CCTV-3,http://202.168.187.208:9089/tsfile/live/0003_1.m3u8
 CCTV-4,http://202.168.187.208:9089/tsfile/live/1000_1.m3u8
 CCTV-5,http://202.168.187.208:9089/tsfile/live/0005_1.m3u8
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-6,http://113.140.86.162:8009/hls/6/index.m3u8
+CCTV-7,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=12706415551557919057&amp
+CCTV-8,http://113.140.86.162:8009/hls/8/index.m3u8
+CCTV-9,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=17686352686599982856&amp
+CCTV-10,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=9053765528789506188
 CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-12,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=8190402369178717730
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14,http://39.134.136.161:6610/000000001000/1000000001000021973/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021973
+CCTV-14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16,http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
-CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
+CCTV-16,http://58.221.214.82:9901/tsfile/live/0002_2.m3u8
+CCTV-17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=2038717225283627700
 
 ☘️山东频道,#genre#
+山东少儿,http://221.0.78.198:1681/hls/10227/index.m3u8
+山东国际,http://221.0.78.198:1681/hls/10228/index.m3u8
+山东教育,http://221.0.78.198:1681/hls/10221/index.m3u8
+山东农科,http://221.0.78.198:1681/hls/10223/index.m3u8
+山东齐鲁,http://221.0.78.198:1681/hls/10225/index.m3u8
+山东生活,http://221.0.78.198:1681/hls/10226/index.m3u8
+山东体育,http://221.0.78.198:1681/hls/10224/index.m3u8
+山东综艺,http://221.0.78.198:1681/hls/10220/index.m3u8
+济南新闻综合,http://221.0.78.198:1681/hls/10279/index.m3u8
+济南都市,http://221.0.78.198:1681/hls/10280/index.m3u8
+济南生活,http://221.0.78.198:1681/hls/10281/index.m3u8
+济南影视,http://221.0.78.198:1681/hls/10282/index.m3u8
+济南娱乐,http://221.0.78.198:1681/hls/10283/index.m3u8
+济南少儿,http://221.0.78.198:1681/hls/10285/index.m3u8
+济南商务,http://221.0.78.198:1681/hls/10284/index.m3u8
+济南教育,http://221.0.78.198:1681/hls/10286/index.m3u8
 临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 
 🪁动画频道,#genre#
+优漫卡通,http://58.221.214.82:9901/tsfile/live/0008_2.m3u8
+金鹰卡通,http://221.0.78.198:1681/hls/10265/index.m3u8
