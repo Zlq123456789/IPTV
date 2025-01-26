@@ -1,16 +1,16 @@
 🕘️更新时间,#genre#
-2025-01-26 06:23:53,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-01-26 18:21:17,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-3,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
 CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-6,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8
 CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-8,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8
 CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
@@ -21,6 +21,7 @@ CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 ☘️山东频道,#genre#
+济南新闻综合,rtmp://tv.qntv.net/channellive/ch1
 临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
