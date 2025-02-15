@@ -1,25 +1,25 @@
 🕘️更新时间,#genre#
-2025-02-15 18:21:47,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-02-16 06:22:44,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
-CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
-CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
-CCTV-4,http://j.x.bkpcp.top/jx/CCTV4HD
-CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
-CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
-CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
-CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
-CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
-CCTV-10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
-CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
-CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
-CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
-CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
-CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
+CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
-CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
+CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 ☘️山东频道,#genre#
 山东教育,http://goo.bkpcp.top/mg/sdjy
@@ -30,5 +30,6 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 
 🪁动画频道,#genre#
 动漫秀场,http://111.29.9.33:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
+CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 金鹰卡通,http://111.29.9.33:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 黑莓动画,http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
