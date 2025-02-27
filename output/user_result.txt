@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-02-27 06:23:43,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-02-27 18:23:06,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
-CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-2,http://php.jdshipin.com:8880/cqyx.php?id=CCTV2HD
 CCTV-3,http://php.jdshipin.com:8880/cqyx.php?id=CCTV3HD
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4HD
@@ -24,6 +24,8 @@ CCTV-17,http://php.jdshipin.com:8880/cqyx.php?id=CCTV17HD
 ☘️山东频道,#genre#
 山东教育,http://goo.bkpcp.top/mg/sdjy
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1
-中华美食,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_ZHONGHUAMS/G_ZHONGHUAMS.m3u8
+临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 
 🪁动画频道,#genre#
