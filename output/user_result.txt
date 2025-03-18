@@ -1,38 +1,38 @@
 🕘️更新时间,#genre#
-2025-03-18 06:25:54,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-03-18 18:24:40,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
-CCTV-2,http://php.jdshipin.com:8880/cqyx.php?id=CCTV2HD
-CCTV-3,http://php.jdshipin.com:8880/cqyx.php?id=CCTV3HD
+CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
+CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4HD
-CCTV-5,http://php.jdshipin.com:8880/cqyx.php?id=CCTV5HD
-CCTV-5+,http://php.jdshipin.com:8880/cqyx.php?id=CCTV5SPORTHD
-CCTV-6,http://php.jdshipin.com:8880/cqyx.php?id=CCTV6HD
-CCTV-7,http://php.jdshipin.com:8880/cqyx.php?id=CCTV7HD
-CCTV-8,http://php.jdshipin.com:8880/cqyx.php?id=CCTV8HD
-CCTV-9,http://php.jdshipin.com:8880/cqyx.php?id=CCTV9HD
-CCTV-10,http://php.jdshipin.com:8880/cqyx.php?id=CCTV10HD
-CCTV-11,http://php.jdshipin.com:8880/cqyx.php?id=CCTV11HD
-CCTV-12,http://php.jdshipin.com:8880/cqyx.php?id=CCTV12HD
-CCTV-13,http://php.jdshipin.com:8880/cqyx.php?id=CCTVNEWSHD
-CCTV-14,http://php.jdshipin.com:8880/cqyx.php?id=CCTVSEHD
-CCTV-15,http://php.jdshipin.com:8880/cqyx.php?id=CCTV15HD
-CCTV-16,http://php.jdshipin.com:8880/cqyx.php?id=CCTV16HD
-CCTV-17,http://php.jdshipin.com:8880/cqyx.php?id=CCTV17HD
+CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
+CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
+CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
+CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
+CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
+CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
+CCTV-10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
+CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
+CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
+CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
+CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
+CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
+CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
+CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 
 ☘️山东频道,#genre#
 山东教育,http://goo.bkpcp.top/mg/sdjy
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1
-临沂公共,http://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+中华美食,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_ZHONGHUAMS/G_ZHONGHUAMS.m3u8
+临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 
 🪁动画频道,#genre#
 动漫秀场,http://124.248.69.76:26781/douyu/9548279
-新动漫,http://124.248.69.76:26781/douyu/9548279
+新动漫,http://8.218.190.107:80/douyu/9548279
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-优漫卡通,http://z.b.bkpcp.top/m.php?id=ymkt
-海绵宝宝,http://124.248.69.76:26781/huya/11352919
+海绵宝宝,http://8.218.190.107:80/douyu/3949681
 经典动漫,http://8.218.190.107:80/yy/24180320
-漫画解说,http://124.248.69.76:26781/douyu/5907076
+漫画解说,http://8.218.190.107:80/yy/1382735568
