@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-04-08 18:25:35,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-04-09 06:26:05,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
-CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-2,http://php.jdshipin.com:8880/cqyx.php?id=CCTV2HD
 CCTV-3,http://php.jdshipin.com:8880/cqyx.php?id=CCTV3HD
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4HD
@@ -34,5 +34,3 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 优漫卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010118
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
-海绵宝宝,http://124.248.69.76:26781/huya/11352919
-漫画解说,http://124.248.69.76:26781/douyu/5907076
